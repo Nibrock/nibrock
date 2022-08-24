@@ -1,4 +1,4 @@
-![Nibrock Banner](./assets/Nibrock_Transparent.png)
+![Nibrock Banner](./assets/Nibrock%20Transparent.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=50&pause=1000&color=8B0CF7&center=true&width=1500&height=100&lines=Freelance+Designer)](https://git.io/typing-svg)
 
