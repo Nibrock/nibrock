@@ -49,10 +49,10 @@ CURRENTLY LEARNING
 ### Spigot Plugin Pages
 - [Blep Fishing](https://www.spigotmc.org/resources/blep-fishing.78555/) - Logo, Header, Banners, and Buttons
 - [SellGui](https://www.spigotmc.org/resources/sellgui.55201/) - Logo and Header
+- [EmeraldsEnhanced](https://www.spigotmc.org/resources/emeralds-enriched-itemsadder.104789/) - Logo, Header, and Banner
 
 ### Miscellaneous
 - [Nibrock's GUI](https://www.planetminecraft.com/texture-pack/nibrock-s-gui/) - A complete redesign of the Minecraft GUI from scratch
-- [EmeraldsEnhanced](https://www.spigotmc.org/resources/emeralds-enriched-itemsadder.104789/) - A simple ItemsAdder addon with edited textures allowing players to craft emerald tools and armor
 
 </details>
 
