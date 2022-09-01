@@ -7,7 +7,7 @@ MY WORKSPACE
 </h3>
 <p align="center">
 <img align="center" height="25" src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img align="center" height="25" src="https://img.shields.io/badge/Intel%20-Core_i9_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+<img align="center" height="25" src="https://img.shields.io/badge/Intel%20-Core_i9—11900K-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img align="center" height="25" src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
 <img align="center" height="25" src="https://img.shields.io/badge/NVIDIA-RTX 3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
