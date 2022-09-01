@@ -39,6 +39,22 @@ CURRENTLY LEARNING
 <img align="center" height="20" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
+<details>
+<summary>Resume</summary>
+
+# Design
+>NOTE: This resume is a work in progress and does not represent my entire body of work.
+
+## Minecraft
+### Spigot Plugin Pages
+- [Blep Fishing](https://www.spigotmc.org/resources/blep-fishing.78555/) - Logo, Header, Banners, and Buttons
+- [SellGui](https://www.spigotmc.org/resources/sellgui.55201/) - Logo and Header
+
+### Miscellaneous
+- [Nibrock's GUI](https://www.planetminecraft.com/texture-pack/nibrock-s-gui/) - A complete redesign of the Minecraft GUI from scratch
+- [EmeraldsEnhanced](https://www.spigotmc.org/resources/emeralds-enriched-itemsadder.104789/) - A simple ItemsAdder addon with edited textures allowing players to craft emerald tools and armor
+
+</details>
 
 <!--
 **Nibrock/nibrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
