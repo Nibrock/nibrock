@@ -168,7 +168,7 @@ CURRENTLY LEARNING
   <a href = "https://steamcommunity.com/id/nibrock" target = "_self"> 
      <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt = "" border = "0"/> 
   </a>
-  <a href = "" target = "_self"> 
+  <a href = "https://twitter.com/NibrockDesign" target = "_self"> 
      <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt = "Twitter" border = "0"/> 
   </a>
   </p>
