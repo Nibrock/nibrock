@@ -152,6 +152,28 @@ CURRENTLY LEARNING
     </p>
   </details>
 </details>
+<details>
+  <summary><h3>Links</h3></summary>
+  <h2 align="center">YOU CAN ALSO FIND ME AT THE FOLLOWING:</h2>
+  <p align="center">
+  <a href = "https://www.planetminecraft.com/member/nibrock/" target = "_self"> 
+     <img src = "https://img.shields.io/badge/Planet_Minecraft-7CFC00?style=for-the-badge&logo=googleearth&logoColor=white" alt = "Planet Minecraft" border = "0"/> 
+  </a>
+  <a href = "https://www.spigotmc.org/members/nibrock.974029/" target = "_self"> 
+     <img src = "https://img.shields.io/badge/Spigot-FFC300?style=for-the-badge&logo=rainmeter&logoColor=white" alt = "Spigot" border = "0"/> 
+  </a>
+  <a href = "https://www.patreon.com/nibrock" target = "_self"> 
+     <img src = "https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt = "Patreon" border = "0"/> 
+  </a>
+  <a href = "https://steamcommunity.com/id/nibrock" target = "_self"> 
+     <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt = "" border = "0"/> 
+  </a>
+  <a href = "" target = "_self"> 
+     <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt = "Twitter" border = "0"/> 
+  </a>
+  </p>
+</details>
+
 
 <!--
 **Nibrock/nibrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
