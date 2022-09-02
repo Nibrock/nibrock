@@ -40,7 +40,7 @@ CURRENTLY LEARNING
 </p>
 
 <details>
-<summary>Resume</summary>
+  <summary><h3>Resume</h3></summary>
 
 # Design
 >NOTE: This resume is a work in progress and does not represent my entire body of work.
@@ -54,6 +54,103 @@ CURRENTLY LEARNING
 ### Miscellaneous
 - [Nibrock's GUI](https://www.planetminecraft.com/texture-pack/nibrock-s-gui/) - A complete redesign of the Minecraft GUI from scratch
 
+</details>
+<details>
+  <summary><h3>Program Proficiency</h3></summary>
+  Below are my proficiency levels for various categories of software
+  
+  <details>
+    <summary>OS</summary>
+    <h2 align="center">OPERATING SYSTEM PROFICIENCY</h2>
+    <h3 align="center">PROFICIENT</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+    </p>
+    <h3 align="center">FAMILIAR</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
+    </p>
+    <h3 align="center">SOME EXPERIENCE</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    </p>
+  </details>
+  <details>
+    <summary>DESIGN</summary>
+    <h2 align="center">DESIGN SOFTWARE PROFICIENCY</h2>
+    <h3 align="center">PROFICIENT</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+    </p>
+    <h3 align="center">FAMILIAR</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+    </p>
+    <h3 align="center">SOME EXPERIENCE</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"><img align="center" height="30" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"><img align="center" height="30" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+    </p>
+  </details>
+  <details>
+    <summary>OFFICE</summary>
+    <h2 align="center">OFFICE SOFTWARE PROFICIENCY</h2>
+    <h3 align="center">PROFICIENT</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+    </p>
+    <h3 align="center">FAMILIAR</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+    </p>
+  </details>
+  <details>
+    <summary>IDE</summary>
+    <h2 align="center">INTEGRATED DEVELOPMENT ENVIRONMENT (IDE) PROFICIENCY</h2>
+    <h3 align="center">PROFICIENT</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+    </p>
+    <h3 align="center">SOME EXPERIENCE</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    </p>
+  </details>
+  <details>
+    <summary>LANGUAGES/FRAMEWORKS</summary>
+    <h2 align="center">PROGRAMMING LANGUAGE/FRAMEWORKS PROFICIENCY</h2>
+    <h3 align="center">PROFICIENT</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/yml_configuration-9FA6B2?style=for-the-badge&logo=java&logoColor=white">
+    </p>
+    <h3 align="center">FAMILIAR</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+    </p>
+    <h3 align="center">SOME EXPERIENCE</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    </p>
+  </details>
+  <details>
+    <summary>DATABASE</summary>
+    <h2 align="center">DATABASE PROFICIENCY</h2>
+    <h3 align="center">SOME EXPERIENCE</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img align="center" height="30" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    </p>
+  </details>
+  <details>
+    <summary>MUSIC/DAW</summary>
+    <h2 align="center">MUSIC/DIGITAL AUDIO WORKSTATION (DAW) PROFICIENCY</h2>
+    <h3 align="center">PROFICIENT</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/FL_Studio-FF5733?style=for-the-badge&logo=flask&logoColor=white">
+    </p>
+    <h3 align="center">FAMILIAR</h3>
+    <p align="center">
+    <img align="center" height="30" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
+    </p>
+  </details>
 </details>
 
 <!--
