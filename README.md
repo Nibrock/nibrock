@@ -45,6 +45,8 @@ CURRENTLY LEARNING
 # Design
 >NOTE: This resume is a work in progress and does not represent my entire body of work.
 
+>This resume is intended to showcase my design work, accessible via my LinkedIn, but seperate, preventing access to personal information by those not viewing this page from a LinkedIn, Indeed, or Job Application.
+
 ## Minecraft
 ### Spigot Plugin Pages
 - [Blep Fishing](https://www.spigotmc.org/resources/blep-fishing.78555/) - Logo, Header, Banners, and Buttons
