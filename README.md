@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=50&pause=1000&color=8B0CF7&center=true&width=1500&height=100&lines=Freelance+Designer)](https://git.io/typing-svg)
 
+<p align="center">
+<a href="https://wakatime.com/@987273a0-e885-4d0a-a42b-6ba3ca76dbf6"><img align="center" src="https://wakatime.com/badge/user/987273a0-e885-4d0a-a42b-6ba3ca76dbf6.svg?style=for-the-badge" alt="Total time coded since Jul 5 2022" /></a>
+</p>
+
 <h3 align="center">
 MY WORKSPACE
 </h3>
