@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="97" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="126" class="">
     <defs>
         <style/>
     </defs>
@@ -27,6 +27,8 @@
                             <div class="label" title="Chrome extensions enable users to customize the Chrome browsing experience.">chrome extension</div>
                             <div class="label" title="Minecraft is a sandbox video game.">minecraft</div>
                             <div class="label" title="Pixel art is a form of digital art where images are created and edited at the pixel level.">pixel art</div>
+                            <div class="label" title="Game Development is the art of creating games and describes the design, development and release of a game.">game development</div>
+                            <div class="label" title="Godot, Tailwind CSS">and 2 more...</div>
                         </div>
                     </section>
                 </div>
