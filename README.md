@@ -49,6 +49,7 @@ CURRENTLY LEARNING
 <img align="center" height="20" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
+<!--
 <details>
   <summary><h3>Resume</h3></summary>
 
@@ -190,6 +191,7 @@ CURRENTLY LEARNING
   </a>
   </p>
 </details>
+-->
 
 
 <!--
