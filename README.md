@@ -2,16 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=50&pause=1000&color=8B0CF7&center=true&width=1500&height=100&lines=Freelance+Designer/Developer)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://github.com/Nibrock/nibrock/blob/main/metrics.plugin.topics.icons.svg" />
-</p>
-<p align="center">
-  <img src="https://github.com/Nibrock/nibrock/blob/main/metrics.plugin.wakatime.svg" />
-</p>
-
+  <img src="https://www.codewars.com/users/Nibrock/badges/large" />
+</p>  
 <p align="center">
 <a href="https://wakatime.com/@987273a0-e885-4d0a-a42b-6ba3ca76dbf6"><img align="center" src="https://wakatime.com/badge/user/987273a0-e885-4d0a-a42b-6ba3ca76dbf6.svg?style=for-the-badge" alt="Total time coded since Jul 5 2022" /></a>
 </p>
-
 <h3 align="center">
 MY WORKSPACE
 </h3>
@@ -26,7 +21,7 @@ MY WORKSPACE
 <img align="center" height="20" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 <img align="center" height="20" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
 <img align="center" height="20" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-<img align="center" height="20" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+<img align="center" height="20" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white">
 <img align="center" height="20" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 </p>
 
@@ -47,6 +42,15 @@ CURRENTLY LEARNING
 <img align="center" height="20" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img align="center" height="20" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img align="center" height="20" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img align="center" height="20" src="https://img.shields.io/badge/javascript-%23F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=323330">
+<img align="center" height="20" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+ <img align="center" height="20" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://github.com/Nibrock/nibrock/blob/main/metrics.plugin.topics.icons.svg" />
+</p>
+<p align="center">
+  <img src="https://github.com/Nibrock/nibrock/blob/main/metrics.plugin.wakatime.svg" />
 </p>
 
 <!--
